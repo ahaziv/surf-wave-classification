@@ -1,24 +1,33 @@
-https://magicseaweed.com/Hilton-Surf-Report/3658/
-https://magicseaweed.com/Marina-Herzelia-Surf-Report/3979/
-https://magicseaweed.com/Gazebbo-Beach-Club-Surf-Report/3980/
-https://magicseaweed.com/Sao-Torpes-Pier-Surf-Report/4743/
-https://magicseaweed.com/Muizenberg-Surf-Report/847/
-https://magicseaweed.com/Killer-Point-Surf-Report/4730/
-https://magicseaweed.com/Anchor-Point-Surf-Report/905/
-https://magicseaweed.com/Ocean-City-NJ-Surf-Report/391/
-https://magicseaweed.com/Sebastian-Inlet-Surf-Report/352/
-https://magicseaweed.com/Jacksonville-Beach-Surf-Report/345/
-https://magicseaweed.com/18th-Street-Surf-Report/5490/
-https://magicseaweed.com/Flagler-Pier-Surf-Report/347/
-https://magicseaweed.com/Matanzas-Inlet-Surf-Report/4993/
-https://magicseaweed.com/Ormond-Beach-Surf-Report/4203/
-https://magicseaweed.com/Wilbur-by-the-Sea-Surf-Report/4992/
-https://magicseaweed.com/Bingin-Surf-Report/878/
-https://magicseaweed.com/Impossibles-Surf-Report/2302/
-https://magicseaweed.com/Keramas-Surf-Report/909/
-https://magicseaweed.com/Padang-Padang-Surf-Report/1121/
-https://magicseaweed.com/Lagundri-Bay-The-Point-Surf-Report/575/
-https://magicseaweed.com/El-Zonte-Surf-Report/745/
-https://magicseaweed.com/Playa-Dominical-Surf-Report/3346/
-https://magicseaweed.com/Playa-Guiones-Surf-Report/2456/
-https://magicseaweed.com/Playa-Hermosa-Surf-Report/987/
+https://magicseaweed.com/Hilton-Surf-Report/3658/ Crop_Point: 323 167
+https://magicseaweed.com/Marina-Herzelia-Surf-Report/3979/ Crop_Point: 339 500
+https://magicseaweed.com/Nirvana-Beach-Surf-Report/8282/ Crop_Point: 821 259
+https://magicseaweed.com/Killer-Point-Surf-Report/4730/ Crop_Point: 310 448
+https://magicseaweed.com/Anchor-Point-Surf-Report/905/ Crop_Point: 545 544
+https://magicseaweed.com/Ocean-City-NJ-Surf-Report/391/ Crop_Point: 653 508
+https://magicseaweed.com/Jacksonville-Beach-Surf-Report/345/ Crop_Point: 423 315
+https://magicseaweed.com/18th-Street-Surf-Report/5490/ Crop_Point: 706 308
+https://magicseaweed.com/Flagler-Pier-Surf-Report/347/ Crop_Point: 921 580
+https://magicseaweed.com/Matanzas-Inlet-Surf-Report/4993/ Crop_Point: 647 505
+https://magicseaweed.com/Wilbur-by-the-Sea-Surf-Report/4992/ Crop_Point: 690 556
+https://magicseaweed.com/Bingin-Surf-Report/878/ Crop_Point: 916 389
+https://magicseaweed.com/Impossibles-Surf-Report/2302/ Crop_Point: 497 504
+https://magicseaweed.com/Keramas-Surf-Report/909/ Crop_Point: 1202 523
+https://magicseaweed.com/Padang-Padang-Surf-Report/1121/ Crop_Point: 474 503
+https://magicseaweed.com/El-Zonte-Surf-Report/745/ Crop_Point: 536 445
+https://magicseaweed.com/Playa-Dominical-Surf-Report/3346/ Crop_Point: 516 481
+https://magicseaweed.com/Playa-Hermosa-Surf-Report/987/ Crop_Point: 385 297
+https://magicseaweed.com/Bude-Crooklets-Surf-Report/6/ Crop_Point: 1213 223
+https://magicseaweed.com/Cromer-Surf-Report/20/ Crop_Point: 1050 424
+https://magicseaweed.com/East-Wittering-Surf-Report/14/ Crop_Point: 1134 504
+https://magicseaweed.com/Godrevy-Surf-Report/1340/ Crop_Point: 860 235
+https://magicseaweed.com/Harlyn-Surf-Report/946/ Crop_Point: 1075 501
+https://magicseaweed.com/Lyme-Regis-Surf-Report/137/ Crop_Point: 567 585
+https://magicseaweed.com/Mawgan-Porth-Surf-Report/744/ Crop_Point: 407 354
+https://magicseaweed.com/Newquay-Great-Western-Surf-Report/967/ Crop_Point: 648 530
+https://magicseaweed.com/Newquay-Tolcarne-Wedge-Surf-Report/1336/ Crop_Point: 741 344
+https://magicseaweed.com/Arrifana-Surf-Report/836/ Crop_Point: 733 467
+https://magicseaweed.com/Ericeira-Surf-Report/198/ Crop_Point: 510 443
+https://magicseaweed.com/Sao-Torpes-Pier-Surf-Report/4743/ Crop_Point: 829 299
+https://magicseaweed.com/Pedra-Branca-Surf-Report/7740/ Crop_Point: 970 406
+https://magicseaweed.com/Santa-Cruz-Surf-Report/3763/ Crop_Point: 665 566
+https://magicseaweed.com/Praia-Castelejo-Surf-Report/4326/ Crop_Point: 639 289
