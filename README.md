@@ -24,7 +24,7 @@ After removing the data the scripts provided in ![images to data](https://github
 
 # Dataset
 ![wave1](https://github.com/ahaziv/surf-wave-classification/blob/main/image344.png) ![wave2](https://github.com/ahaziv/surf-wave-classification/blob/main/image335.png)
- of waves along with a csv label file containing info about the camera location, wave quality, date and some other additional info.
+Dataset consists of .png images of waves, along with a csv label file containing info about the camera location, wave quality, date and some other additional info.
 The dataset produced consist of 7412 RGB images from 32 different camera locations. Wave quality ratings ranged between 0 and 4. Distribution of ratings/locations can be seen below.
 ![wave1](https://github.com/ahaziv/surf-wave-classification/blob/main/Wave%20Grades%20Distribution.png)
 As can be seen grade distribution is very uneven, which will most likely cause issues when predicting high ratings.
